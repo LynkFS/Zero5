@@ -1,0 +1,13 @@
+<div id="Grid" data-name="grid" style="zoom: 0.5; width: 58.5492%; height: 87.9121%; overflow: hidden auto; color: black; background-color: white; border: none; border-radius: 0.25rem; box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px; font-size: 100%; left: 25.9067%; top: 2.85714%; position: absolute; padding: 10px; display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 10px; justify-items: center;" oncreate="Grid.style.zoom=`1.0`; Grid.parentNode.style.border=`1px solid silver`; Grid.parentNode.style.resize=`both`;">
+
+<div id="Grid0" style="position: relative; width: 175px; height: 175px; color: white; background-image: url('https://source.unsplash.com/random?lips,0'); background-size: cover;">0</div>
+<div id="Grid1" style="position: relative; width: 175px; height: 175px; color: white; background-image: url('https://source.unsplash.com/random?lips,1'); background-size: cover;">1</div>
+<div id="Grid2" style="position: relative; width: 175px; height: 175px; color: white; background-image: url('https://source.unsplash.com/random?lips,2'); background-size: cover;">2</div>
+<div id="Grid3" style="position: relative; width: 175px; height: 175px; color: white; background-image: url('https://source.unsplash.com/random?lips,3'); background-size: cover;">3</div>
+<div id="Grid4" style="position: relative; width: 175px; height: 175px; color: white; background-image: url('https://source.unsplash.com/random?lips,4'); background-size: cover;">4</div>
+<div id="Grid5" style="position: relative; width: 175px; height: 175px; color: white; background-image: url('https://source.unsplash.com/random?lips,5'); background-size: cover;">5</div>
+<div id="Grid6" style="position: relative; width: 175px; height: 175px; color: white; background-image: url('https://source.unsplash.com/random?lips,6'); background-size: cover;">6</div>
+<div id="Grid7" style="position: relative; width: 175px; height: 175px; color: white; background-image: url('https://source.unsplash.com/random?lips,7'); background-size: cover;">7</div>
+<div id="Grid8" style="position: relative; width: 175px; height: 175px; color: white; background-image: url('https://source.unsplash.com/random?lips,8'); background-size: cover;">8</div>
+<div id="Grid9" style="position: relative; width: 175px; height: 175px; color: white; background-image: url('https://source.unsplash.com/random?lips,9'); background-size: cover;">9</div></div>
+

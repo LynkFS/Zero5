@@ -1,0 +1,5 @@
+<div id="Switch" data-name="container" style="width: 100%; height: 100%; overflow: hidden; color: black; background-color: white; border: none; border-radius: 0px; font-size: 100%; display: block; padding: 0px; left: 0px; top: 0px; position: relative;"
+ onclick="if (x===false) {  Button.style.float=`right`;  Button.style.backgroundColor=`teal`;  Button.innerHTML=`On`; } else {  Button.style.float=`left`;  Button.style.backgroundColor=`orange`;  Button.innerHTML=`Off`; } x=!x;"
+ oncreate="x=true; Switch.parentNode.style.maxHeight=`30px`; Switch.parentNode.style.minHeight=`30px`;">
+<button id="Button" data-name="button" style="width: 50%; height: 100%; overflow: hidden; cursor: pointer; color: white; background-color: teal; border: none; border-radius: 0px; font-size: 100%; left: 0%; top: 0%; position: relative; padding: 0px; margin: 0px; float: right;">On</button>
+</div>
