@@ -6,3 +6,4 @@ It does not need any external library.<br>
 Can be used to create single web-pages, multi-page websites and full fledged apps.<br>
 "Samedayapp"<br>
 See https://lynkfs.design for documentation and demos
+Note : being updated, source code at present obsolete
